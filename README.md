@@ -42,8 +42,8 @@ This project implements a **PID Controller** to regulate the **altitude** of an 
 
 ## Simulation Results
 
-[Download the File](STEP RESPONSE PLOT.png) 
-[Download the File](PID VISUALISATION.png)
+[Download the File](STEPRESPONSEPLOT.png) 
+[Download the File](PIDVISUALISATION.png)
 [Download the File](SIMULINK.png)
 
 ---
