@@ -1,6 +1,6 @@
 # UAV Altitude Control System
 
-This project implements a **PID Controller** to regulate the **altitude** of an **Unmanned Aerial Vehicle (UAV)** using **MATLAB** and **Simulink**. The model simulates altitude response under various conditions, including disturbances, to evaluate the performance of the controller.
+This project implements a **PID Controller** to regulate the **altitude** of an **Unmanned Aerial Vehicle (UAV)** using **MATLAB** and **Simulink**. The model simulates altitude response under various conditions, including disturbances, to evaluate the controller's performance.
 
 ---
 
@@ -28,7 +28,7 @@ This project implements a **PID Controller** to regulate the **altitude** of an 
 
 2. **Open the MATLAB Project:**
    - Launch MATLAB.
-   - Open the Simulink model file (e.g., `UAV_Altitude_Control.slx`).
+   - Open the Simulink model file (`PID_Altitude_control_for_UAV_2.slx`).
 
 3. **Run the Simulation:**
    - Simulate the model to observe altitude response.
@@ -42,7 +42,9 @@ This project implements a **PID Controller** to regulate the **altitude** of an 
 
 ## Simulation Results
 
-!(STEP RESPONSE PLOT.png) (PID VISUALISATION.png) (SIMULINK.png)
+[Download the File](STEP RESPONSE PLOT.png) 
+[Download the File](PID VISUALISATION.png)
+[Download the File](SIMULINK.png)
 
 ---
 
@@ -50,12 +52,7 @@ This project implements a **PID Controller** to regulate the **altitude** of an 
 - Add support for **nonlinear dynamics**.
 - Integrate with **sensor models** to account for real-world errors.
 - Implement **adaptive control algorithms** for changing conditions.
-
----
-
-## License
-
-This project is licensed under the **MIT License** 
+ 
 ---
 
 ## Contact
